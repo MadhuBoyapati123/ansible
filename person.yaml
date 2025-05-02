@@ -1,0 +1,33 @@
+- name: Madhu
+  dob: 1990-01-01
+  address:
+    city: kanigiri
+    state: AP
+    country: India
+    door number: 123
+    street: gaddamida palli
+  addresses:
+    - type: permanent
+      city: hyd
+      country: India
+    - type: current
+      city: california
+      country: USA
+
+
+- name: babu
+  dob: 1990-01-01
+  address:
+    city: kanigiri
+    state: AP
+    country: India
+    door number: 123
+    street: gaddamida palli
+  addresses:
+    - type: permanent
+      city: hyd
+      country: India
+    - type: current
+      city: california
+      country: USA
+

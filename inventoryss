@@ -1,0 +1,12 @@
+[Mongodb]
+roboshop-us-qa-db-Mongodb-01
+
+[cart]
+roboshop-uk-dev-db-cart-01
+roboshop-uk-dev-db-cart-02
+roboshop-uk-dev-db-cart-03
+
+[user]
+roboshop-in-prod-db-User-01
+roboshop-in-prod-db-User-02
+roboshop-in-prod-db-User-03
